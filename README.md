@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Cid Garcia — código com propósito, soluções para o mundo real" width="100%" />
+  <img src="banner.svg" alt="Cid Garcia — código com propósito, soluções para o mundo real" width="100%" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ O sistema controla vagas, evita inscrições duplicadas e promove automaticament
 
 ## Stack
 
-<img src="assets/stack.svg" alt="Stack por categoria: linguagens, frontend, backend, dados e desktop" width="100%" />
+<img src="stack.svg" alt="Stack por categoria: linguagens, frontend, backend, dados e desktop" width="100%" />
 
 ## Direção de desenvolvimento
 
