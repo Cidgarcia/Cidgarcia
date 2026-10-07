@@ -11,9 +11,9 @@
   <a href="https://github.com/Cidgarcia?tab=repositories">Explorar meus projetos ↗</a>
 </p>
 
-## Olá, eu sou o Cid.
+## Olá, sou Cid.
 
-Sou o Cid, estudante de **Engenharia de Computação na UNIVASF**. Gosto de criar aplicações que resolvem problemas do dia a dia e de aprender colocando ideias em prática.
+Estudante de **Engenharia de Computação na UNIVASF**. Gosto de criar aplicações que resolvem problemas do dia a dia e de aprender colocando ideias em prática.
 
 Por aqui estão os projetos que desenvolvi, de sistemas de gestão a aplicações web. Também quero explorar automações, LLMs e chatbots nos próximos projetos.
 
